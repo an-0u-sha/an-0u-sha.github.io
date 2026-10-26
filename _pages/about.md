@@ -2,33 +2,50 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+nav: true
+nav_order: 2
+subtitle: Machine learning · mechanical engineering · Bharatnatyam · a lot of paint
 
 profile:
   align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image: prof_pic.jpg # put your photo in assets/img/prof_pic.jpg
+  image_circular: false
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p><b>Anousha Puvvala</b></p>
+    <p>Mumbai, Maharashtra, India</p>
+    <p><a href="/cv/">Curriculum Vitae &rarr;</a></p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
-
+selected_papers: false
+social: true
 announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
-
+  enabled: false
 latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  enabled: false
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hi, I'm Anousha Puvvala, a final-year undergraduate at [IIT Bombay](https://www.iitb.ac.in/) pursuing a B.Tech in Mechanical Engineering with Honours and a Minor in AI & Data Science. I grew up in Bangalore and have spent the last few years in Mumbai, where I've been quietly collecting hobbies faster than I can finish them.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My research interests sit around **machine learning for high-stakes, data-scarce settings**: medical imaging, sequential decision-making in healthcare, and generative models that have to respect real constraints. I'm applying to Master's programmes in CS / Data Science / ML for Fall 2027.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+## Work & research
+
+In summer 2026 I was a research intern at [Adobe](https://research.adobe.com/), working on diffusion-based generative design with multi-modal conditioning and an agentic LLM pipeline, including the (surprisingly fiddly) problem of how you even *evaluate* that kind of output. For my Bachelor's thesis, supervised by Prof. Vibhor Pandhare, I'm using reinforcement learning to model patient journeys and resource allocation in a trauma ICU. Before that, I taught as a TA for ME 781 (Statistical Machine Learning & Data Mining) to 200+ students, which is the fastest way I know to find out whether you actually understand something. More in my [CV](/cv/).
+
+## Off the clock
+
+I'm trained in **[Bharatnatyam](/bharatnatyam/)**, thirteen years of it, with grade exams cleared with Distinction. It's the thread that has run through every semester of college. It's currently on a pause while my health sorts itself out, but it's very much a "see you soon" rather than a goodbye. If you want the full story (the exams, the stage, the juggling act), [it lives here](/bharatnatyam/).
+
+I'm also an **[art](/art/)** person. I doodle through lectures, I learnt painting properly at *In the Name of Meera*, and I've filled more than a few canvases, some of which have even been exhibited. [Come see the gallery](/art/).
+
+The rest of the list: I love music (I'm happiest with something good playing and a deadline far away), I play badminton now and then (enthusiastic, not elite), and I'm a sucker for cities. I like how a place smells, sounds and moves at 6 p.m., which is how I ended up mapping service roads around Powai for a course assignment. I also designed my own combinatorial game, *Neighbour Nudge*, for a game theory course, and I will happily explain the rules to anyone who stands still.
+
+## Fun facts
+
+- Thirteen years of Bharatnatyam means my idea of "a break" has always involved a rehearsal schedule.
+- The margins of my notebooks are a gallery. The doodles are not always related to the lecture.
+- Mechanical engineer by degree, ML person by obsession, artist by habit.
+- <!-- TODO: add one fun fact only you would know -->Add your own here.
+
+## Say hello
+
+The easiest place to start is my [CV](/cv/). Details on the dance and art pages if you want the lighter side, and email and social links are in the footer.
