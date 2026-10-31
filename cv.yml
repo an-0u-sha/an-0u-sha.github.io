@@ -1,0 +1,105 @@
+cv:
+  name: Anousha Puvvala
+  label: Undergraduate researcher, machine learning for healthcare and generative design
+  # email: your.email@example.com  # TODO: add the email you want public
+  location: Mumbai, India
+  image: ""
+  summary: Final-year B.Tech student (Mechanical Engineering, Honours) at IIT Bombay with a Minor in AI & Data Science. I work on machine learning for high-stakes, data-scarce settings, including reinforcement learning for clinical decision-making, medical imaging and generative models.
+
+  social_networks:
+    - network: GitHub
+      username: an-0u-sha
+    # - network: LinkedIn
+    #   username: your-linkedin-handle  # TODO
+
+  sections:
+    Education:
+      - institution: Indian Institute of Technology Bombay
+        location: Mumbai, India
+        url: https://www.iitb.ac.in/
+        area: Mechanical Engineering (Honours), Minor in AI & Data Science
+        studyType: B.Tech
+        start_date: 2023
+        end_date: 2027
+        score: "GPA 8.78 / 10"
+        courses: "Statistical Machine Learning and Data Mining (TA), Medical Image Computing, Combinatorial Game Theory, Applied Linear Algebra, Clinical Data Management"
+
+    Experience:
+      - company: Adobe
+        position: Research Intern
+        url: https://research.adobe.com/
+        location: India
+        start_date: 2026-05
+        end_date: 2026-07
+        highlights:
+          - Worked on diffusion-based generative design with multi-modal conditioning.
+          - Built an agentic LLM pipeline for the task and designed custom evaluation metrics for the generated outputs.
+          - The team is writing up the work as a paper.
+
+      - company: IIT Bombay, Bachelor's Thesis (advisor Prof. Vibhor Pandhare)
+        position: Undergraduate Researcher
+        location: Mumbai, India
+        start_date: 2026-08
+        end_date: present
+        highlights:
+          - Built a simulator on MIMIC-IV trauma ICU data and am training reinforcement learning policies that jointly minimise mortality and resource cost.
+
+      - company: IIT Bombay, ME 781 Statistical Machine Learning and Data Mining
+        position: Teaching Assistant (with Prof. Asim Tewari)
+        location: Mumbai, India
+        start_date: 2026
+        end_date: present
+        # TODO: correct the dates and add what you did (tutorials, grading, office hours)
+
+    Projects:
+      - name: Retinal vessel segmentation (CS 736, Medical Image Computing)
+        summary: Compared graph-based methods (MST, Dijkstra) against U-Net, Attention U-Net and ResNet34 U-Net on the DRIVE dataset, using Focal + Dice loss and k-fold cross-validation.
+      - name: Billing system integrated with a hospital information system
+        summary: Group project for Clinical Data Management. I led system design and architecture, covering the schema, modules and ER diagram.
+      - name: Neighbour Nudge (IE 619, Combinatorial Game Theory)
+        summary: An original combinatorial game and its All-Small version, analysed with the course's tools.
+
+    Awards:
+      - title: JEE Advanced, top 2.15 percentile
+        awarder: IIT Joint Admission Board
+        date: 2023
+      - title: JEE Main, top 0.27 percentile
+        awarder: NTA
+        date: 2023
+      - title: NTSE Stage I, rank 50 in Karnataka
+        awarder: NCERT
+        date: 2021
+      - title: 2nd among 150+ students, ICSE Class 10
+        awarder: ICSE
+        date: 2021
+      - title: Bharatnatyam grade exams passed with Distinction
+        awarder: Annamalai University
+
+    Skills:
+      - name: Machine learning
+        level: ""
+        icon: fa-solid fa-brain
+        keywords: "Diffusion models, reinforcement learning, LLM agents, medical image segmentation (U-Net family)"
+      - name: Programming
+        level: ""
+        icon: fa-solid fa-code
+        keywords: "Python"
+
+    Languages:
+      - name: English
+        summary: "Fluent"
+      # - name: ...  # TODO: add the other languages you speak
+
+    Interests:
+      - name: Performing arts
+        icon: fa-solid fa-music
+        keywords: "Bharatnatyam (13 years)"
+      - name: Visual arts
+        icon: fa-solid fa-palette
+        keywords: "Drawing, painting on canvas, doodling"
+      - name: Cities
+        icon: fa-solid fa-city
+        keywords: "Urban exploration, street-level observation"
+      - name: Sport and music
+        icon: fa-solid fa-person-running
+        keywords: "Badminton, listening to music"

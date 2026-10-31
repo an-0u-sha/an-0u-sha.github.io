@@ -1,0 +1,75 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Anousha Puvvala",
+    "label": "Undergraduate researcher, machine learning for healthcare and generative design",
+    "image": "",
+    "summary": "Final-year B.Tech student (Mechanical Engineering, Honours) at IIT Bombay with a Minor in AI & Data Science. I work on machine learning for high-stakes, data-scarce settings, including reinforcement learning for clinical decision-making, medical imaging and generative models.",
+    "location": { "city": "Mumbai", "region": "Maharashtra", "countryCode": "IN" },
+    "profiles": [
+      { "network": "GitHub", "username": "an-0u-sha", "url": "https://github.com/an-0u-sha" }
+    ]
+  },
+  "education": [
+    {
+      "institution": "Indian Institute of Technology Bombay",
+      "url": "https://www.iitb.ac.in/",
+      "area": "Mechanical Engineering (Honours), Minor in AI & Data Science",
+      "studyType": "B.Tech",
+      "startDate": "2023",
+      "endDate": "2027",
+      "score": "GPA 8.78 / 10",
+      "courses": ["Statistical Machine Learning and Data Mining (TA)", "Medical Image Computing", "Combinatorial Game Theory", "Applied Linear Algebra", "Clinical Data Management"]
+    }
+  ],
+  "work": [
+    {
+      "name": "Adobe",
+      "position": "Research Intern",
+      "url": "https://research.adobe.com/",
+      "startDate": "2026-05",
+      "endDate": "2026-07",
+      "highlights": [
+        "Worked on diffusion-based generative design with multi-modal conditioning.",
+        "Built an agentic LLM pipeline for the task and designed custom evaluation metrics.",
+        "The team is writing up the work as a paper."
+      ]
+    },
+    {
+      "name": "IIT Bombay, Bachelor's Thesis (advisor Prof. Vibhor Pandhare)",
+      "position": "Undergraduate Researcher",
+      "startDate": "2026-08",
+      "highlights": [
+        "Built a simulator on MIMIC-IV trauma ICU data and am training reinforcement learning policies that jointly minimise mortality and resource cost."
+      ]
+    },
+    {
+      "name": "IIT Bombay, ME 781 Statistical Machine Learning and Data Mining",
+      "position": "Teaching Assistant (with Prof. Asim Tewari)",
+      "startDate": "2026"
+    }
+  ],
+  "awards": [
+    { "title": "JEE Advanced, top 2.15 percentile", "date": "2023", "awarder": "IIT Joint Admission Board" },
+    { "title": "JEE Main, top 0.27 percentile", "date": "2023", "awarder": "NTA" },
+    { "title": "NTSE Stage I, rank 50 in Karnataka", "date": "2021", "awarder": "NCERT" },
+    { "title": "2nd among 150+ students, ICSE Class 10", "date": "2021", "awarder": "ICSE" },
+    { "title": "Bharatnatyam grade exams passed with Distinction", "awarder": "Annamalai University" }
+  ],
+  "skills": [
+    { "name": "Machine learning", "keywords": ["Diffusion models", "Reinforcement learning", "LLM agents", "Medical image segmentation"] },
+    { "name": "Programming", "keywords": ["Python"] }
+  ],
+  "languages": [ { "language": "English", "fluency": "Fluent" } ],
+  "interests": [
+    { "name": "Performing arts", "keywords": ["Bharatnatyam (13 years)"] },
+    { "name": "Visual arts", "keywords": ["Drawing", "Painting on canvas", "Doodling"] },
+    { "name": "Cities", "keywords": ["Urban exploration"] },
+    { "name": "Sport and music", "keywords": ["Badminton", "Music"] }
+  ],
+  "projects": [
+    { "name": "Retinal vessel segmentation", "description": "Graph-based methods vs U-Net variants on DRIVE, with Focal + Dice loss and k-fold cross-validation." },
+    { "name": "Billing system integrated with a hospital information system", "description": "Group project; I led system design and architecture." },
+    { "name": "Neighbour Nudge", "description": "An original combinatorial game and its All-Small version." }
+  ]
+}
