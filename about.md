@@ -29,15 +29,15 @@ My research interests sit around **machine learning for high-stakes, data-scarce
 
 ## Work & research
 
-In summer 2026 I was a research intern at [Adobe](https://research.adobe.com/), working on diffusion-based generative design with multi-modal conditioning and an agentic LLM pipeline, including the (surprisingly fiddly) problem of how you even *evaluate* that kind of output. For my Bachelor's thesis, supervised by Prof. Vibhor Pandhare, I'm using reinforcement learning to model patient journeys and resource allocation in a trauma ICU. Before that, I taught as a TA for ME 781 (Statistical Machine Learning & Data Mining), which is the fastest way I know to find out whether you actually understand something. More in my [CV](/cv/).
+In summer 2026 I was a research intern at [Adobe](https://research.adobe.com/), working on diffusion-based generative design with multi-modal conditioning and an agentic LLM pipeline, including the (surprisingly fiddly) problem of how you even _evaluate_ that kind of output. For my Bachelor's thesis, supervised by Prof. Vibhor Pandhare, I'm using reinforcement learning to model patient journeys and resource allocation in a trauma ICU. Before that, I taught as a TA for ME 781 (Statistical Machine Learning & Data Mining), which is the fastest way I know to find out whether you actually understand something. More in my [CV](/cv/).
 
 ## Off the clock
 
 I'm trained in **[Bharatnatyam](/bharatnatyam/)**, thirteen years of it, with grade exams cleared with Distinction. It's the thread that has run through every semester of college. It's currently on a pause while my health sorts itself out, but it's very much a "see you soon" rather than a goodbye. If you want the full story (the exams, the stage, the juggling act), [it lives here](/bharatnatyam/).
 
-I'm also an **[art](/art/)** person. I doodle through lectures, I learnt painting properly at *In the Name of Meera*, and I've filled more than a few canvases, some of which have even been exhibited. [Come see the gallery](/art/).
+I'm also an **[art](/art/)** person. I doodle through lectures, I learnt painting properly at _In the Name of Meera_, and I've filled more than a few canvases, some of which have even been exhibited. [Come see the gallery](/art/).
 
-The rest of the list: I love music (I'm happiest with something good playing and a deadline far away), I play badminton now and then (enthusiastic, not elite), and I'm a sucker for cities. I like how a place smells, sounds and moves at 6 p.m., which is how I ended up mapping service roads around Powai for a course assignment. I also designed my own combinatorial game, *Neighbour Nudge*, for a game theory course, and I will happily explain the rules to anyone who stands still.
+The rest of the list: I love music (I'm happiest with something good playing and a deadline far away), I play badminton now and then (enthusiastic, not elite), and I'm a sucker for cities. I like how a place smells, sounds and moves at 6 p.m., which is how I ended up mapping service roads around Powai for a course assignment. I also designed my own combinatorial game, _Neighbour Nudge_, for a game theory course, and I will happily explain the rules to anyone who stands still.
 
 ## Fun facts
 
